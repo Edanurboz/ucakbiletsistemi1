@@ -1,0 +1,373 @@
+{
+  "ucakBiletleri": [
+    {
+      "kalkisYeri": "İstanbul",
+      "varisYeri": "İzmir",
+      "tarih": "2024-07-01",
+      "mesafe_km": 328,
+      "saat": "08:00",
+      "havayolu": "THY",
+      "ücret": 1000,
+      "koltuklar": {
+        "koltuk1": "Boş",
+        "koltuk2": "Dolu",
+        "koltuk3": "Boş",
+        "koltuk4": "Dolu",
+        "koltuk5": "Boş",
+        "koltuk6": "Boş",
+        "koltuk7": "Dolu",
+        "koltuk8": "Boş",
+        "koltuk9": "Boş",
+        "koltuk10": "Boş"
+      }
+    },
+    {
+      "kalkisYeri": "İstanbul",
+      "varisYeri": "İzmir",
+      "tarih": "2024-07-01",
+      "saat": "12:00",
+      "mesafe_km": 328,
+      "havayolu": "Pegasus",
+      "ücret": 900,
+      "koltuklar": {
+        "koltuk1": "Boş",
+        "koltuk2": "Dolu",
+        "koltuk3": "Boş",
+        "koltuk4": "Dolu",
+        "koltuk5": "Boş",
+        "koltuk6": "Boş",
+        "koltuk7": "Dolu",
+        "koltuk8": "Boş",
+        "koltuk9": "Boş",
+        "koltuk10": "Boş"
+      }
+    },
+    {
+      "kalkisYeri": "İstanbul",
+      "varisYeri": "İzmir",
+      "tarih": "2024-07-01",
+      "saat": "16:00",
+      "mesafe_km": 328,
+      "havayolu": "AnadoluJet",
+      "ücret": 750,
+      "koltuklar": {
+        "koltuk1": "Boş",
+        "koltuk2": "Dolu",
+        "koltuk3": "Boş",
+        "koltuk4": "Dolu",
+        "koltuk5": "Boş",
+        "koltuk6": "Boş",
+        "koltuk7": "Dolu",
+        "koltuk8": "Boş",
+        "koltuk9": "Boş",
+        "koltuk10": "Boş"
+      }
+    },
+    {
+      "kalkisYeri": "Ankara",
+      "varisYeri": "Antalya",
+      "tarih": "2024-07-01",
+      "saat": "09:30",
+      "mesafe_km": 482,
+      "havayolu": "AnadoluJet",
+      "ücret": 1000,
+      "koltuklar": {
+        "koltuk1": "Boş",
+        "koltuk2": "Boş",
+        "koltuk3": "Boş",
+        "koltuk4": "Dolu",
+        "koltuk5": "Boş",
+        "koltuk6": "Dolu",
+        "koltuk7": "Boş",
+        "koltuk8": "Boş",
+        "koltuk9": "Boş",
+        "koltuk10": "Boş"
+      }
+    },
+    {
+      "kalkisYeri": "Ankara",
+      "varisYeri": "Antalya",
+      "tarih": "2024-07-01",
+      "saat": "13:45",
+      "mesafe_km": 482,
+      "havayolu": "SunExpress",
+      "ücret": 800,
+      "koltuklar": {
+        "koltuk1": "Boş",
+        "koltuk2": "Boş",
+        "koltuk3": "Boş",
+        "koltuk4": "Dolu",
+        "koltuk5": "Boş",
+        "koltuk6": "Dolu",
+        "koltuk7": "Boş",
+        "koltuk8": "Boş",
+        "koltuk9": "Boş",
+        "koltuk10": "Boş"
+      }
+    },
+    {
+      "kalkisYeri": "Ankara",
+      "varisYeri": "Antalya",
+      "tarih": "2024-07-01",
+      "saat": "18:20",
+      "mesafe_km": 482,
+      "havayolu": "Turkish Airlines",
+      "ücret": 1200,
+      "koltuklar": {
+        "koltuk1": "Boş",
+        "koltuk2": "Boş",
+        "koltuk3": "Boş",
+        "koltuk4": "Dolu",
+        "koltuk5": "Boş",
+        "koltuk6": "Dolu",
+        "koltuk7": "Boş",
+        "koltuk8": "Boş",
+        "koltuk9": "Boş",
+        "koltuk10": "Boş"
+      }
+    },
+    {
+      "kalkisYeri": "Antalya",
+      "varisYeri": "İstanbul",
+      "tarih": "2024-07-01",
+      "saat": "07:15",
+      "mesafe_km": 482,
+      "havayolu": "Pegasus",
+      "ücret": 1300,
+      "koltuklar": {
+        "koltuk1": "Boş",
+        "koltuk2": "Boş",
+        "koltuk3": "Boş",
+        "koltuk4": "Dolu",
+        "koltuk5": "Boş",
+        "koltuk6": "Dolu",
+        "koltuk7": "Boş",
+        "koltuk8": "Boş",
+        "koltuk9": "Boş",
+        "koltuk10": "Boş"
+      }
+    },
+    {
+      "kalkisYeri": "Antalya",
+      "varisYeri": "İstanbul",
+      "tarih": "2024-07-01",
+      "saat": "11:30",
+      "mesafe_km": 482,
+      "havayolu": "SunExpress",
+      "ücret": 1150,
+      "koltuklar": {
+        "koltuk1": "Boş",
+        "koltuk2": "Boş",
+        "koltuk3": "Boş",
+        "koltuk4": "Dolu",
+        "koltuk5": "Boş",
+        "koltuk6": "Dolu",
+        "koltuk7": "Boş",
+        "koltuk8": "Boş",
+        "koltuk9": "Boş",
+        "koltuk10": "Boş"
+      }
+    },
+    {
+      "kalkisYeri": "İstanbul",
+      "varisYeri": "Antalya",
+      "tarih": "2024-07-03",
+      "mesafe_km": 482,
+      "havayolu": "SunExpress",
+      "ücret": 1150,
+      "koltuklar": {
+        "koltuk1": "Boş",
+        "koltuk2": "Boş",
+        "koltuk3": "Dolu",
+        "koltuk4": "Dolu",
+        "koltuk5": "Boş",
+        "koltuk6": "Boş",
+        "koltuk7": "Boş",
+        "koltuk8": "Boş",
+        "koltuk9": "Boş",
+        "koltuk10": "Boş"
+      }
+    },
+    {
+      "kalkisYeri": "İstanbul",
+      "varisYeri": "Malatya",
+      "tarih": "2024-07-04",
+      "mesafe_km": 844,
+      "havayolu": "THY",
+      "ücret": 2000,
+      "koltuklar": {
+        "koltuk1": "Boş",
+        "koltuk2": "Boş",
+        "koltuk3": "Dolu",
+        "koltuk4": "Boş",
+        "koltuk5": "Boş",
+        "koltuk6": "Boş",
+        "koltuk7": "Boş",
+        "koltuk8": "Boş",
+        "koltuk9": "Boş",
+        "koltuk10": "Dolu"
+      }
+    },
+    {
+      "kalkisYeri": "İstanbul",
+      "varisYeri": "Bursa",
+      "tarih": "2024-07-05",
+      "mesafe_km": 99,
+      "havayolu": "SunExpress",
+      "ücret": 1150,
+      "koltuklar": {
+        "koltuk1": "Boş",
+        "koltuk2": "Boş",
+        "koltuk3": "Boş",
+        "koltuk4": "Boş",
+        "koltuk5": "Boş",
+        "koltuk6": "Boş",
+        "koltuk7": "Boş",
+        "koltuk8": "Boş",
+        "koltuk9": "Boş",
+        "koltuk10": "Boş"
+      }
+    },
+    {
+      "kalkisYeri": "İstanbul",
+      "varisYeri": "Sivas",
+      "tarih": "2024-07-06",
+      "mesafe_km": 577,
+      "havayolu": "AnadoluJet",
+      "ücret": 2050,
+      "koltuklar": {
+        "koltuk1": "Boş",
+        "koltuk2": "Boş",
+        "koltuk3": "Boş",
+        "koltuk4": "Boş",
+        "koltuk5": "Boş",
+        "koltuk6": "Boş",
+        "koltuk7": "Dolu",
+        "koltuk8": "Boş",
+        "koltuk9": "Boş",
+        "koltuk10": "Dolu"
+      }
+    },
+    {
+      "kalkisYeri": "İstanbul",
+      "varisYeri": "Muğla",
+      "tarih": "2024-07-07",
+      "mesafe_km": 498,
+      "havayolu": "THY",
+      "ücret": 3000,
+      "koltuklar": {
+        "koltuk1": "Boş",
+        "koltuk2": "Boş",
+        "koltuk3": "Boş",
+        "koltuk4": "Boş",
+        "koltuk5": "Dolu",
+        "koltuk6": "Boş",
+        "koltuk7": "Boş",
+        "koltuk8": "Boş",
+        "koltuk9": "Boş",
+        "koltuk10": "Boş"
+      }
+    },
+    {
+      "kalkisYeri": "İzmir",
+      "varisYeri": "Ankara",
+      "tarih": "2024-07-08",
+      "mesafe_km": 526,
+      "havayolu": "SunExpress",
+      "ücret": 1150,
+      "koltuklar": {
+        "koltuk1": "Boş",
+        "koltuk2": "Boş",
+        "koltuk3": "Boş",
+        "koltuk4": "Boş",
+        "koltuk5": "Dolu",
+        "koltuk6": "Boş",
+        "koltuk7": "Boş",
+        "koltuk8": "Boş",
+        "koltuk9": "Boş",
+        "koltuk10": "Boş"
+      }
+    },
+    {
+      "kalkisYeri": "Ankara",
+      "varisYeri": "Antalya",
+      "tarih": "2024-07-09",
+      "mesafe_km": 343,
+      "havayolu": "SunExpress",
+      "ücret": 1350,
+      "koltuklar": {
+        "koltuk1": "Boş",
+        "koltuk2": "Boş",
+        "koltuk3": "Boş",
+        "koltuk4": "Boş",
+        "koltuk5": "Boş",
+        "koltuk6": "Boş",
+        "koltuk7": "Boş",
+        "koltuk8": "Boş",
+        "koltuk9": "Dolu",
+        "koltuk10": "Boş"
+      }
+    },
+    {
+      "kalkisYeri": "Antalya",
+      "varisYeri": "İzmir",
+      "tarih": "2024-07-10",
+      "mesafe_km": 290,
+      "havayolu": "SunExpress",
+      "ücret": 500,
+      "koltuklar": {
+        "koltuk1": "Boş",
+        "koltuk2": "Boş",
+        "koltuk3": "Boş",
+        "koltuk4": "Boş",
+        "koltuk5": "Boş",
+        "koltuk6": "Boş",
+        "koltuk7": "Boş",
+        "koltuk8": "Boş",
+        "koltuk9": "Boş",
+        "koltuk10": "Dolu"
+      }
+    },
+    {
+      "kalkisYeri": "Malatya",
+      "varisYeri": "İstanbul",
+      "tarih": "2024-07-11",
+      "mesafe_km": 844,
+      "havayolu": "AnadoluJet",
+      "ücret": 2800,
+      "koltuklar": {
+        "koltuk1": "Boş",
+        "koltuk2": "Boş",
+        "koltuk3": "Boş",
+        "koltuk4": "Boş",
+        "koltuk5": "Boş",
+        "koltuk6": "Boş",
+        "koltuk7": "Boş",
+        "koltuk8": "Boş",
+        "koltuk9": "Boş",
+        "koltuk10": "Dolu"
+      }
+    },
+    {
+      "kalkisYeri": "İstanbul",
+      "varisYeri": "Malatya",
+      "tarih": "2024-07-15",
+      "mesafe_km": 844,
+      "havayolu": "THY",
+      "ücret": 3200,
+      "koltuklar": {
+        "koltuk1": "Boş",
+        "koltuk2": "Boş",
+        "koltuk3": "Boş",
+        
+        "koltuk4": "Boş",
+        "koltuk5": "Boş",
+        "koltuk6": "Boş",
+        "koltuk7": "Boş",
+        "koltuk8": "Boş",
+        "koltuk9": "Boş",
+        "koltuk10": "Dolu"
+      }
+    }
+  ]
+}
